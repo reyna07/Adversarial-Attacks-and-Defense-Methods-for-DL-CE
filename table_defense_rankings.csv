@@ -1,0 +1,4 @@
+,Overall_ASR_Rank,Overall_ASR_Value,Undermining_ASR_Rank,Undermining_ASR_Value,Clean_MSE_Rank,Clean_MSE_Value
+Adversarial-Training,1,0.5459,1,0.7349,3,0.0311
+Standard,2,0.655,2,0.8556,2,0.0269
+Defensive-Distillation,3,0.7269,3,0.9005,1,0.0254

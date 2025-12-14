@@ -1,0 +1,6 @@
+Attack,Adversarial-Training,Defensive-Distillation,Standard
+BIM,3.2872,6.1936,4.4075
+Channel-Aware,3.5208,6.9867,4.8281
+FGSM,2.6959,4.8787,3.5372
+PGD,3.7288,12.8746,7.1647
+Pilot-Contamination,1.0945,2.6749,1.6649

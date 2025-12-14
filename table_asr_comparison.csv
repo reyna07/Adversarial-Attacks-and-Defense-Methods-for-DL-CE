@@ -1,0 +1,7 @@
+Attack,Adversarial-Training,Defensive-Distillation,Standard
+FGSM,0.4602,0.5799,0.5228
+BIM,0.6485,0.7883,0.723
+PGD,0.6657,0.835,0.7702
+Channel-Aware,0.6851,0.825,0.7605
+Pilot-Contamination,0.0811,0.433,0.2981
+Undermining,0.7349,0.9005,0.8556

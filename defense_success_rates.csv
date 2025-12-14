@@ -1,0 +1,4 @@
+Model,BIM,Channel-Aware,FGSM,PGD,Pilot-Contamination
+Adversarial-Training,98.125,100.0,63.125,98.125,2.5
+Defensive-Distillation,100.0,100.0,77.5,100.0,57.49999999999999
+Standard,100.0,100.0,70.625,100.0,44.375
